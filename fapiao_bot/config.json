@@ -1,0 +1,20 @@
+{
+    "email": {
+        "server": "imap.163.com",
+        "port": 993,
+        "username": "你的邮箱地址",
+        "password": "你的IMAP授权码",
+        "use_ssl": true
+    },
+    "fapiao_storage_path": "",
+    "log_storage_path": "",
+    "log_level": "INFO",
+    "schedule_interval": "daily",
+    "proxy": {
+        "enabled": false,
+        "server": "proxy.example.com",
+        "port": 8080,
+        "username": "proxy_username",
+        "password": "proxy_password"
+    }
+}
